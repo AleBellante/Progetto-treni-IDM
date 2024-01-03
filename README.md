@@ -46,6 +46,6 @@ Edit:
 Da Alessandro Bellante
 
 
-Per problemi tecnici ho dovuto creare un nuovo profilo git hub, nel quale aggiungerò ogni progetto significativo da me caricato nell`ormai vecchio, inaccessibile profilo usato fino ad oggi.
+Per problemi tecnici ho dovuto creare un nuovo profilo git hub, nel quale aggiungerò ogni progetto significativo da me caricato nell'ormai vecchio, inaccessibile profilo usato fino ad oggi.
 Aggiungerò i link dei progetti originali caricati dai possessori della repository, che ora non mostrerà più il mio vecchio profilo come collaboratore, a meno che non sia specificato nel read me, come nel caso di questo progetto.
-Mi scuso per l`eventuale confusione causata da questo problema, ma ogni progetto qua caricato possiede anche il mio lavoro.
+Mi scuso per l'eventuale confusione causata da questo problema, ma ogni progetto qua caricato possiede anche il mio lavoro.
